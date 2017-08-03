@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+img {
+	float: right;
+	width: 50%;
+	
+}
+}
+
+p.class {
+	float: left;
+		
+}
+
+p.classone {
+	float: left;
+}

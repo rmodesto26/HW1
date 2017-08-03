@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+img {
+	float: right;
+}
+}
+
+p.class {
+	float: left;
+		
+}
+
+p.classone {
+	float: left;
+}

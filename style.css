@@ -1,0 +1,57 @@
+
+h1 {
+	color: darkgreen;
+	font-family: Serif;
+	letter-spacing: 2px;
+	text-align: center;
+	text-transform: uppercase;
+
+}
+
+h2 {
+	font-family: serif;
+	text-align: center;
+	letter-spacing: 2px;
+	color: darkgreen;
+}
+   
+
+}
+
+ul {
+	background-color: lightblue;
+	
+
+}
+
+li {
+	display: inline;
+    margin-right: 40px 
+
+	
+}
+
+li a {
+	text-decoration: none;
+	color: darkgreen;
+	letter-spacing: 4px;
+	font-size: 12px;
+}
+
+a {
+
+}
+
+
+p {
+	line-height: 20px;
+} 
+
+.pics img {
+	float: left;
+    width: 300px;
+    
+}
+
+
+
